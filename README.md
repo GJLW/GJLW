@@ -5,6 +5,6 @@
 - 📫 You may reach me at https://www.linkedin.com/in/georgejlw/. 
 
 <!---
-GJLW/GJLW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+GJLW/GJLW is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+You can click the Preview link to take a look at my changes.
 --->
