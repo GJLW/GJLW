@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GJLW (George).
 - 👀 I’m interested in environmental science, biology, computers, locksmithing, and minimalism. 
-- 🌱 I’m currently learning Swift and R through Udemy and LinkedIn Learning. 
-- 💞️ I’m looking to collaborate on projects similar to mine or translations in French and English. 
+- 🌱 I’m currently learning Python, but this profile will be used for many things. 
+- 💞️ I’m looking to collaborate on projects similar to mine or translations in French and English. Need translation? I can help!
 - 📫 You may reach me at https://www.linkedin.com/in/georgejlw/. 
 
 <!---
